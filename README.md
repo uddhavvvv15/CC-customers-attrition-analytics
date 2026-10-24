@@ -53,9 +53,12 @@ The analysis identifies associations in aggregated customer data. It does not es
 
 ## Project Files
 
-- `Credit_Card_Portfolio_Analytics.pbix` — Interactive Power BI report.
-- `screenshots/` — Dashboard page previews.
-- `sql/` — SQL scripts and analytical views, to be added.
+- `Credit_Card_Portfolio_Analytics.pbix` - Interactive Power BI dashboard.
+- `screenshots/` - Previews of the Executive Overview, Customer Deep Dive, and Customer Segmentation & Retention pages.
+- `sql/01_data_quality_and_exploratory_analysis.sql` - Data quality checks and exploratory analysis.
+- `sql/02_analytical_views_and_segmentation.sql` - Analytical views, customer segmentation, and Power BI dataset preparation.
+- `sql/03_customer_analytics_view.sql` - Standardized customer-level analytical view.
+- `sql/04_validation_queries.sql` - Validation queries for customer counts and attrition metrics.
 
 ## How to View
 
